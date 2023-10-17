@@ -29,10 +29,9 @@
 
   </a> 
   
+##
  
 </div>
-
-##
 
 <div>
   🌱 I'm currently learning full stack react </br>
