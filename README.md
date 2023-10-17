@@ -23,7 +23,7 @@
     
  ##
     
-<div style="margin-bottom: 200px">
+<div>
   <a href = "mailto:yaslimsoares15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yaslim-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
@@ -32,9 +32,9 @@
  
 </div>
 
-<div>
-  - 🌱 I'm currently learning full stack react </br>
-  - 🔭 I’m currently working on React and React Native (TailwindCSS, SaaS) / NestJS / Express / Gravity</br>
-  - 📫 How to reach me: yaslimsoares15@gmail.com </br>
-</div>
+##
 
+<div>
+  🌱 I'm currently learning full stack react </br>
+  🔭 I’m currently working with React and React Native (TailwindCSS, SaaS) / NestJS / Express / Gravity</br>
+</div>
