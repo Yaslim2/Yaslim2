@@ -12,7 +12,7 @@
   <img align="center" alt="Yaslim-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Yaslim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yaslim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="left" height="250" alt="coding-time" src="code.gif">
+ <img align="right" height="250" alt="coding-time" src="code.gif">
   
 </div>
     
