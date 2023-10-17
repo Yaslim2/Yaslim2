@@ -41,5 +41,4 @@
 
   - 💬 Ask me about **React, NodeJS, Typescript**
 
-  - 📫 How to reach me **yaslimsoares15@gmail.com**
 </div>
