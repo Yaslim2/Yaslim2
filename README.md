@@ -27,7 +27,7 @@
   <a href = "mailto:yaslimsoares15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yaslim-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
-   ![Snake animation](https://github.com/Yaslim2/Yaslim2/blob/output/github-contribution-grid-snake.svg)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yaslim2/Yaslim2/output/github-contribution-grid-snake.svg" />
   </a> 
  
 </div>
