@@ -16,8 +16,7 @@
   <img align="center" alt="Yaslim-Tailwind" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Yaslim-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Yaslim-Nest" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" alt="Yaslim-Next" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />    
- <img style='border-radius: 10px' align="right" height="150" alt="coding-time" src="cat.gif">
+  <img align="center" alt="Yaslim-Next" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />   
   
 </div>
     
@@ -32,6 +31,8 @@
 ##
  
 </div>
+
+<img style='border-radius: 10px' align="right" height="150" alt="coding-time" src="cat.gif">
 
 <div>
   🌱 I'm currently learning full stack react </br>
