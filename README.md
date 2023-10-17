@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yaslim2.Yaslim2" />
 <div>
   <a href="https://github.com/Yaslim2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yaslim2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
