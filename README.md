@@ -35,7 +35,7 @@
 
 <div>
 
-  - 🔭 I’m currently working on [Luby Software](https://luby.com.br/) and [Good Software Dev](https://goodsoftwaredev.com/)
+  - 🔭 I’m currently working on **[Luby Software](https://luby.com.br/)** and **[Good Software Dev](https://goodsoftwaredev.com/)**
 
   - 🌱 I’m currently learning **Microservices and Docker**
 
