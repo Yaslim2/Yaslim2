@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yaslim Soares</h1>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 <div>
   <a href="https://github.com/Yaslim2">
@@ -33,6 +34,11 @@
 </div>
 
 <div>
-  🌱 I'm currently learning full stack react </br>
-  🔭 I’m currently working with React and React Native (TailwindCSS, SaaS) / NestJS / Express / Gravity</br>
+  - 🔭 I’m currently working on [Luby Software](https://luby.com.br/) and [Good Software Dev](https://goodsoftwaredev.com/)
+
+  - 🌱 I’m currently learning **Microservices and Docker**
+
+  - 💬 Ask me about **React, NodeJS, Typescript**
+
+  - 📫 How to reach me **yaslimsoares15@gmail.com**
 </div>
