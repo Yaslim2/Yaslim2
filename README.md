@@ -32,8 +32,6 @@
  
 </div>
 
-<img style='border-radius: 10px' align="right" height="150" alt="coding-time" src="cat.gif">
-
 <div>
   🌱 I'm currently learning full stack react </br>
   🔭 I’m currently working with React and React Native (TailwindCSS, SaaS) / NestJS / Express / Gravity</br>
